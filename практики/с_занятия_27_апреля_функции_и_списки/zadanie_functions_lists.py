@@ -294,4 +294,5 @@ def zadanie_11_17():
         lst_c = [x / lst[0] for x in lst]
         print(f"в) ÷ lst[0] ({lst[0]}): {[round(v, 2) for v in lst_c]}")
 
+
 zadanie_11_17()
